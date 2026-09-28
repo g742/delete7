@@ -5,3 +5,5 @@ Endpoint = UBUNTU_SERVER_IP:51820
 PersistentKeepalive = 25
 
 f4nVocqEb98lkUlNVBCdvUvGwM6bn/qCsdMFfyLm1D0=
+
+59.144.25.30
